@@ -1,0 +1,9 @@
+San Salvador,Miami
+Miami,Paris
+Paris,Hong Kong
+San Salvador,Lima
+Lima,Paris
+Miami, San Francisco
+San Salvador,Guatemala
+Bogota,Guatemala
+Guatemala,San Salvador
